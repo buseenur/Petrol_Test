@@ -1,0 +1,11 @@
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.exe.config
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.exe
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\bin\Debug\Test_Petrol.pdb
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.AssemblyReference.cache
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.SuggestedBindingRedirects.cache
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.Form1.resources
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.Properties.Resources.resources
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.GenerateResource.cache
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.csproj.CoreCompileInputs.cache
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.exe
+C:\Users\oztur\OneDrive\Masaüstü\Projeler\Test_Petrol\Test_Petrol\obj\Debug\Test_Petrol.pdb
